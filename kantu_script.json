@@ -1,0 +1,21 @@
+{
+  "Name": "DemoAutofill",
+  "CreationDate": "2019-5-18",
+  "Commands": [
+    {
+      "Command": "open",
+      "Target": "https://www.youtube.com/feed/history/live_chat_history",
+      "Value": ""
+    },
+    {
+      "Command": "click",
+      "Target": "//*[@id=\"delete-button\"]/yt-button-renderer/a",
+      "Value": ""
+    },
+    {
+      "Command": "click",
+      "Target": "//*[@id=\"confirm-button\"]/a",
+      "Value": ""
+    }
+  ]
+}
