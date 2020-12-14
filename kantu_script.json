@@ -1,6 +1,6 @@
 {
-  "Name": "DemoAutofill",
-  "CreationDate": "2019-5-18",
+  "Name": "kantu_script",
+  "CreationDate": "2020-12-14",
   "Commands": [
     {
       "Command": "open",
@@ -9,12 +9,17 @@
     },
     {
       "Command": "click",
-      "Target": "//*[@id=\"delete-button\"]/yt-button-renderer/a",
+      "Target": "//*[@id=\"yDmH0d\"]/c-wiz/div/div[2]/c-wiz/div/div[1]/c-wiz[1]/div/div/div[1]/div[2]/div/div/div[1]/button/i",
       "Value": ""
     },
     {
       "Command": "click",
-      "Target": "//*[@id=\"confirm-button\"]/a",
+      "Target": "//*[@id=\"yDmH0d\"]/c-wiz/div/div[2]/c-wiz/div/div[1]/c-wiz[1]/div/div/div[1]/div[2]/div/div/div[2]/div/ul/li[2]",
+      "Value": ""
+    },
+    {
+      "Command": "click",
+      "Target": "//*[@id=\"yDmH0d\"]/div[10]/div/div[2]/span/div[2]/div/c-wiz/div/div[4]/div/div/div[2]/div/button/div[2]",
       "Value": ""
     }
   ]
